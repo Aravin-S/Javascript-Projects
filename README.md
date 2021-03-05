@@ -1,1 +1,1 @@
-This chrome extension allows the user to display an image multiple times in a new tab. It also allows the user to change the image by clicking the button.
+This chrome extension allows the user to change all of the images on a webpage to an image of their choice. By default, I set the program to change all of the images of a page to Totodile (Pokemon). Once the user clicks the button displayed, all of the images on a webpage are changed.
